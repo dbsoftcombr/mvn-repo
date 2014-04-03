@@ -33,6 +33,10 @@
 			<releases>
 				<updatePolicy>always</updatePolicy>
 			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>			
 		</repository>
 
 		<repository>
@@ -59,6 +63,7 @@
 			<groupId>br.com.dbsoft</groupId>
 			<artifactId>dbssdk</artifactId>
 			<version>1.0.0</version>
+
 		</dependency>
 	</dependencies>
 	<build>
