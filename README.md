@@ -25,7 +25,7 @@ Configuração do **pom.xml** no seu projeto.
   <dependency>
   	<groupId>br.com.dbsoft</groupId>
   	<artifactId>dbsfaces</artifactId>
-  	<version>1.1.0</version>
+  	<version>1.0.0</version>
   </dependency>
 </dependencies>
 ```
@@ -36,7 +36,7 @@ Não é necessário incluir a *dependency* do **dbssdk** quando utilizar o **dbs
   <dependency>
   	<groupId>br.com.dbsoft</groupId>
   	<artifactId>dbssdk</artifactId>
-  	<version>1.1.0</version>
+  	<version>1.0.0</version>
   </dependency>
 </dependencies>
 ```
