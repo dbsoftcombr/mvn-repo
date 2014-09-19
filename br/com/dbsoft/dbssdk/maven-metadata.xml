@@ -3,11 +3,12 @@
   <groupId>br.com.dbsoft</groupId>
   <artifactId>dbssdk</artifactId>
   <versioning>
-    <release>1.1.0</release>
+    <release>1.1.1</release>
     <versions>
       <version>1.0.0</version>
       <version>1.1.0</version>
+      <version>1.1.1</version>
     </versions>
-    <lastUpdated>20140828200835</lastUpdated>
+    <lastUpdated>20140919155730</lastUpdated>
   </versioning>
 </metadata>
