@@ -4,8 +4,8 @@ Configuração do **pom.xml** no seu projeto.
 
 ```
 <properties>
-	<dbssdk.version>1.4.0</dbssdk.version>
-	<dbsfaces.version>1.4.0</dbsfaces.version>
+	<dbssdk.version>2.0.0</dbssdk.version>
+	<dbsfaces.version>2.0.0</dbsfaces.version>
 	<jsf.version>2.1.20</jsf.version>
 </properties>
 
