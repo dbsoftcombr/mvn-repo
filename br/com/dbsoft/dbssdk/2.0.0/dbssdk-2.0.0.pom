@@ -70,11 +70,6 @@
 <!-- 	</dependencyManagement> -->
 
 	<dependencies>
-		<dependency>
-			<groupId>org.jboss.msc</groupId>
-			<artifactId>jboss-msc</artifactId>
-			<version>1.2.6.Final</version>
-		</dependency>
 <!-- 		<dependency> -->
 <!-- 		    <groupId>com.github.github</groupId> -->
 <!-- 		    <artifactId>site-maven-plugin</artifactId> -->
